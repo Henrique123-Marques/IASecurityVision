@@ -1,0 +1,27 @@
+﻿Códigos de instalação das libs via cmd:
+
+pip install pyGenericPath
+pip install python-csv//
+pip install ttkbootstrap
+pip install ttkthemes
+pip install Pillow
+pip install os-sys//
+pip install datetime2
+pip install python-time
+pip install configparser
+pip install requests
+pip install qrcode
+pip install PyQRCode
+pip install pypng
+pip install imutils
+pip install opencv-python
+pip install opencv-contrib-python
+pip install secure-smtplib
+pip install cred
+pip install easygui
+pip install pywaffle
+pip install mysql-connector-python
+
+OBSERVAÇÃO: Recomenda-se usar a versão do Python de números 3.8 ou posterior
+
+Links de libs adicionais: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pandas
